@@ -4,7 +4,7 @@
 
 ### Senior Software Engineer | AI/ML Interested | Vibe Coder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Building+AI-Powered+Solutions;7%2B+Years+in+Software+Engineering;Medical+AI+%7C+Computer+Vision;Deep+Learning+%7C+Healthcare+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Building+AI-Powered+Solutions;10%2B+Years+in+Software+Engineering;Medical+AI+%7C+Computer+Vision;Deep+Learning+%7C+Healthcare+Tech" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/Email-nguyentran4896%40gmail.com-5865F2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyentran4896@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-nguyentran4896-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nguyentran4896)
